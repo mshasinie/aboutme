@@ -1,2 +1,2 @@
 # hasinie
-Static website for hasinie.com
+Website (https://mshasinie.github.io/aboutme/)
